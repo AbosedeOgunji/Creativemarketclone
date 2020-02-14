@@ -1,0 +1,121 @@
+body, div, h2, h3, h4, p, ul{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+}
+
+h2, h3{
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+}
+
+a{
+
+}
+
+.creative{
+  font-size: 15px;
+}
+
+p{
+  color: #C1C1C1;
+}
+
+.intro{
+  padding: 6px;
+  text-align: center;
+  background-color: #6E8EE0;
+}
+
+#learn{
+  padding: 10px 10px;
+  color: #6E8EE0;
+  background-color: #fff;
+  border-radius: 7px;
+}
+
+.goods{
+  padding-left: 180px;
+
+}
+
+ul li{
+  display: inline;
+  padding: 0 15px;
+
+
+}
+
+.design{
+  padding: 10px 0;
+  border-bottom: 1px solid;
+  border-color: #EEE9E9;
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+}
+
+.photo{
+  padding: 20px 0 20px 180px;
+}
+
+
+.prod{
+  margin-right:  50px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+
+}
+
+.ready{
+  text-align: center;
+  padding: 120px;
+  background-color: #5B5B5B;
+}
+
+h2.to{
+  font-size: 40px;
+  padding: 5px 25%;
+}
+
+p.shoe{
+  font-size: 25px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  padding: 10px 0 0 0;
+}
+.promo{
+  padding: 30px;
+  text-align: center;
+  background-color: #303030;
+}
+
+#cont{
+  padding: 5px;
+  color: #C1C1C1;
+  border-radius: 5px;
+  background-color: #698B22;
+}
+
+.main, .new{
+  text-align: center;
+  padding: 60px 0 ;
+  background-color: #F8F8FF;
+
+}
+
+.image{
+  padding: 30px 300px;
+}
+
+img{
+  width: 300px;
+  height: 200px;
+}
+
+.new img{
+  height: 300px;
+  width:300px;
+}
